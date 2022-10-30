@@ -1,0 +1,8 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.sortMembers": true,
+    "source.organizeImports": true,
+  },
+  "editor.tabSize": 2
+}
